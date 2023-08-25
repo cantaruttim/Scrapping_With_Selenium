@@ -30,6 +30,9 @@ for i in range(1, 48):
     time.sleep(10)
 print("Página Carregada com Sucesso!")
 
+#Página Carregada com Sucesso!
+#CPU times: total: 109 ms
+#Wall time: 8min 2s
 
 %%time
 # intera todos os nomes dos convênios disponíveis.
